@@ -1,6 +1,6 @@
 {
-  "version": 79,
-  "versionName": "9.4.37",
-  "url": "https://cdn.jsdelivr.net/gh/meiguohaohhh-beep/freedom-update@main/apk/Freedom_9.4.37.apk",
-  "msg": "1. 修复 .sh 脚本（ELF 可执行文件）不能运行，已可像 MT 一样直接执行\n2. 检查更新多源并发，国内不用挂梯子也能查到新版\n3. 设置新增「更新源地址」，支持应用内下载安装"
+  "version": 80,
+  "versionName": "9.4.38",
+  "url": "https://cdn.jsdelivr.net/gh/meiguohaohhh-beep/freedom-update@main/apk/Freedom_9.4.38.apk",
+  "msg": "我爱这个世界\nhello world"
 }
